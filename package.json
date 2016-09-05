@@ -1,0 +1,20 @@
+{
+  "name": "load-licenses",
+  "version": "0.1.0",
+  "description": "Retrieve the licenses for your project's dependencies",
+  "main": "index.js",
+  "repository": "leo/load-licenses",
+  "keywords": [
+    "load",
+    "licenses",
+    "retrieve",
+    "modules",
+    "packages"
+  ],
+  "author": "leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo/load-licenses/issues"
+  },
+  "homepage": "https://github.com/leo/load-licenses#readme"
+}
