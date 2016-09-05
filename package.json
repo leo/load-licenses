@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leo/load-licenses/issues"
   },
-  "homepage": "https://github.com/leo/load-licenses#readme"
+  "homepage": "https://github.com/leo/load-licenses#readme",
+  "dependencies": {
+    "module-paths": "^0.1.0"
+  }
 }
