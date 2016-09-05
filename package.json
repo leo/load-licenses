@@ -1,6 +1,6 @@
 {
   "name": "load-licenses",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Retrieve the licenses for your project's dependencies",
   "main": "index.js",
   "repository": "leo/load-licenses",
