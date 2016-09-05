@@ -16,7 +16,7 @@ module.exports = mainModule => {
     'License'
   ]
 
-  const licenses = {}
+  const licenses = []
 
   for (const modulePath of paths) {
     const licensePaths = []
@@ -36,10 +36,15 @@ module.exports = mainModule => {
       }
 
       if (content) {
-        const licenseDir = path.parse(licensePath).dir
-        const moduleName = path.parse(licenseDir).name
+        const licenseProps = path.parse(licensePath)
+        const moduleName = path.parse(licenseProps.dir).name
 
-        licenses[moduleName] = content
+        licenses.push({
+          name: moduleName,
+          filename: licenseProps.base,
+          license: content
+        })
+
         break
       }
     }
