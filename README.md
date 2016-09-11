@@ -1,5 +1,7 @@
 # load-licenses
 
+[![Build Status](https://travis-ci.org/leo/load-licenses.svg?branch=master)](https://travis-ci.org/leo/load-licenses)
+
 Retrieve the licenses for your project's dependencies:
 
 ## Usage
