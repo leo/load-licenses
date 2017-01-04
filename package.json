@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/leo/load-licenses#readme",
   "dependencies": {
-    "module-paths": "^0.1.0"
+    "module-paths": "^0.2.0"
   }
 }
