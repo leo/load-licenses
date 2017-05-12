@@ -21,14 +21,10 @@
   },
   "author": "leo",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leo/load-licenses/issues"
-  },
-  "homepage": "https://github.com/leo/load-licenses#readme",
   "dependencies": {
-    "module-paths": "^0.2.0"
+    "module-paths": "0.2.0"
   },
   "devDependencies": {
-    "xo": "^0.17.1"
+    "xo": "0.17.1"
   }
 }
