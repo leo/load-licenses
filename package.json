@@ -22,9 +22,9 @@
   "author": "leo",
   "license": "MIT",
   "dependencies": {
-    "module-paths": "0.2.0"
+    "module-paths": "1.0.0"
   },
   "devDependencies": {
-    "xo": "0.17.1"
+    "xo": "0.18.2"
   }
 }
