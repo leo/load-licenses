@@ -1,6 +1,6 @@
 {
   "name": "load-licenses",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Retrieve the licenses for your project's dependencies",
   "main": "index.js",
   "repository": "zeit/load-licenses",
