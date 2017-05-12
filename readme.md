@@ -9,9 +9,9 @@ Retrieve the licenses for your project's dependencies:
 ## Usage
 
 ```js
-import licenses from 'load-licenses'
+const getLicenses = require('load-licenses')
 
-licenses(process.mainModule)
+getLicenses(process.mainModule)
 ```
 
 ## Contribute
